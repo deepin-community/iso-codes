@@ -1,0 +1,26 @@
+Source: iso-codes
+Section: misc
+Priority: optional
+Maintainer: Dr. Tobias Quathamer <toddy@debian.org>
+Uploaders: Alastair McKinstry <mckinstry@debian.org>
+Build-Depends: debhelper-compat (= 13)
+Build-Depends-Indep: gettext, python3
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://salsa.debian.org/iso-codes-team/iso-codes
+Vcs-Browser: https://salsa.debian.org/debian/iso-codes
+Vcs-Git: https://salsa.debian.org/debian/iso-codes.git
+
+Package: iso-codes
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Suggests: isoquery
+Description: ISO language, territory, currency, script codes and their translations
+ This package provides the ISO 639, ISO 639-3, and ISO 639-5 language
+ code lists, the ISO 4217 currency code list, the ISO 3166 territory
+ code list, the ISO 3166-2 sub-territory list, and the ISO 15924
+ script code list as JSON files.
+ .
+ More importantly, it also provides their translations to be used by
+ other programs.
