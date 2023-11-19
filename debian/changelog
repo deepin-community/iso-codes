@@ -1,3 +1,63 @@
+iso-codes (4.15.0-1) unstable; urgency=medium
+
+  * New upstream version 4.15.0
+    - Translation updates for ISO 3166-1
+    - Translation updates for ISO 3166-2
+    - Translation updates for ISO 3166-3
+    - Translation updates for ISO 639-2
+    - Translation updates for ISO 639-3
+    - Translation updates for ISO 639-5
+    - Translation updates for ISO 4217
+    - Translation updates for ISO 15924
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Thu, 27 Apr 2023 23:30:13 +0200
+
+iso-codes (4.13.0-1) unstable; urgency=medium
+
+  * New upstream version 4.13.0
+    - Translation updates for ISO 3166-1
+      - Kazakh from Debian BTS. Closes: #1025423
+      - Catalan from Debian BTS. Closes: #1026972
+  * Update d/copyright
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Tue, 28 Feb 2023 11:26:55 +0100
+
+iso-codes (4.12.0-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse.
+    Changes-By: lintian-brush
+    Fixes: lintian: upstream-metadata-file-is-missing
+    See-also: https://lintian.debian.org/tags/upstream-metadata-file-is-missing.html
+    Fixes: lintian: upstream-metadata-missing-bug-tracking
+    See-also: https://lintian.debian.org/tags/upstream-metadata-missing-bug-tracking.html
+
+  [ Dr. Tobias Quathamer ]
+  * New upstream version 4.12.0
+    - Update German translation. Closes: #1020633
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Sun, 06 Nov 2022 21:53:30 +0100
+
+iso-codes (4.11.0-1) unstable; urgency=medium
+
+  * New upstream version 4.11.0
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Mon, 25 Jul 2022 22:44:33 +0200
+
+iso-codes (4.10.0-1) unstable; urgency=medium
+
+  * New upstream version 4.10.0
+  * Update Standards-Version to 4.6.1, no changes needed
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Wed, 01 Jun 2022 15:33:35 +0200
+
+iso-codes (4.9.0-1) unstable; urgency=medium
+
+  * New upstream version 4.9.0
+  * Update d/changelog
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Mon, 03 Jan 2022 20:58:37 +0100
+
 iso-codes (4.8.0-1) unstable; urgency=medium
 
   * New upstream version 4.8.0

@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2020-03-16 20:36+0000\n"
 "Last-Translator: Miguel Gonzalez <migonzalvar@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/iso-codes/"
@@ -733,6 +733,10 @@ msgstr "Irán, República Islámica de"
 msgid "Islamic Republic of Iran"
 msgstr "República Islámica de Irán"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Iraq"
@@ -850,6 +854,10 @@ msgstr "Estado de Kuvait"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "República Democrática Popular de Lao"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1483,6 +1491,10 @@ msgstr "República das Seichelles"
 msgid "Syrian Arab Republic"
 msgstr "República Árabe de Siria"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Illas Turcos e Caicos"
@@ -1560,11 +1572,13 @@ msgid "Republic of Tunisia"
 msgstr "República de Tunicia"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Turquía"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "República de Turquía"
 
 #. Name for TUV

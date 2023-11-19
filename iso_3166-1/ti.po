@@ -8,14 +8,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Joan Piñero <joanpinero71@gmail.com>, 2020.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2020.
+# ds4647318 ds4647318 <ds4647318@gmail.com>, 2022.
+# Mubarek Seyd Juhar <mubareksd@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2020-10-27 21:27+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2022-10-02 13:19+0000\n"
+"Last-Translator: Mubarek Seyd Juhar <mubareksd@gmail.com>\n"
 "Language-Team: Tigrinya <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ti/>\n"
 "Language: ti\n"
@@ -23,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.3.2-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -35,7 +37,7 @@ msgstr "ኣፍጋኒስታን"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
-msgstr ""
+msgstr "እስላማዊ ሪፓብሊክ ኣፍጋኒስታን"
 
 #. Name for AGO
 msgid "Angola"
@@ -47,19 +49,19 @@ msgstr "ሪፓብሊክ ኣንጎላ"
 
 #. Name for AIA
 msgid "Anguilla"
-msgstr ""
+msgstr "አንጉኢላ"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr ""
+msgstr "አላንድ ደሴታት"
 
 #. Name for ALB
 msgid "Albania"
-msgstr "አልባኒያ"
+msgstr "ኣልባንያ"
 
 #. Official name for ALB
 msgid "Republic of Albania"
-msgstr ""
+msgstr "ሪፓብሊክ አልባኒያ"
 
 #. Name for AND
 msgid "Andorra"
@@ -67,11 +69,11 @@ msgstr "አንዶራ"
 
 #. Official name for AND
 msgid "Principality of Andorra"
-msgstr ""
+msgstr "ስርዓት ኣንድራ"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "የተባበሩት አረብ ኤምሬትስ"
+msgstr "ሕቡራት ኢማራት ዓረብ"
 
 #. Name for ARG
 msgid "Argentina"
@@ -95,7 +97,7 @@ msgstr ""
 
 #. Name for ATA
 msgid "Antarctica"
-msgstr ""
+msgstr "ኣንታርክቲካ"
 
 #. Name for ATF
 msgid "French Southern Territories"
@@ -127,7 +129,7 @@ msgstr "ሪፓብሊክ ኣዘርባጃን"
 
 #. Name for BDI
 msgid "Burundi"
-msgstr ""
+msgstr "ቡሩንዲ"
 
 #. Official name for BDI
 msgid "Republic of Burundi"
@@ -159,7 +161,7 @@ msgstr "ቡርኪና ፋሶ"
 
 #. Name for BGD
 msgid "Bangladesh"
-msgstr ""
+msgstr "ባንግላዴሽ"
 
 #. Official name for BGD
 msgid "People's Republic of Bangladesh"
@@ -167,7 +169,7 @@ msgstr ""
 
 #. Name for BGR
 msgid "Bulgaria"
-msgstr "ቡልጌሪያ"
+msgstr "ቡልጋሪያ"
 
 #. Official name for BGR
 msgid "Republic of Bulgaria"
@@ -183,7 +185,7 @@ msgstr ""
 
 #. Name for BHS
 msgid "Bahamas"
-msgstr ""
+msgstr "ባሃማስ"
 
 #. Official name for BHS
 msgid "Commonwealth of the Bahamas"
@@ -211,7 +213,7 @@ msgstr ""
 
 #. Name for BLZ
 msgid "Belize"
-msgstr "ቤሊዘ"
+msgstr "ቤሊዝ"
 
 #. Name for BMU
 msgid "Bermuda"
@@ -730,6 +732,10 @@ msgstr ""
 msgid "Islamic Republic of Iran"
 msgstr ""
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "ዒራቅ"
@@ -846,6 +852,10 @@ msgstr ""
 
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#. Common name for LAO
+msgid "Laos"
 msgstr ""
 
 #. Name for LBN
@@ -1481,6 +1491,10 @@ msgstr ""
 msgid "Syrian Arab Republic"
 msgstr ""
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr ""
@@ -1558,11 +1572,13 @@ msgid "Republic of Tunisia"
 msgstr "ሪፓብሊክ ቱኒዝያ"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "ቱርኪ"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "ሪፓብሊክ ቱርኪ"
 
 #. Name for TUV

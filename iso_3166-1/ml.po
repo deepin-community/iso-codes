@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2008-05-30 05:10+0530\n"
 "Last-Translator: Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -728,6 +728,10 @@ msgstr "ഇറാന്‍, ഇസ്ലാമിക് റിപ്പബ്ല
 msgid "Islamic Republic of Iran"
 msgstr "ഇസ്ലാമിക് റിപ്പബ്ലിക് ഓഫ് ഇറാന്‍"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "ഇറാഖ്"
@@ -845,6 +849,10 @@ msgstr "കുവൈത്ത് സ്റ്റേറ്റ്"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "ലാവോ പീപ്പിള്‍സ് ജനാധിപത്യ റിപ്പബ്ലിക്"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1488,6 +1496,10 @@ msgstr "സെയ്ഷെല്‍സ് റിപ്പബ്ലിക്"
 msgid "Syrian Arab Republic"
 msgstr "സിറിയന്‍ അറബ് റിപ്പബ്ലിക്"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "തുര്‍ക്ക്സും കൈകോസും ദ്വീപുകള്‍"
@@ -1565,11 +1577,13 @@ msgid "Republic of Tunisia"
 msgstr "ടുണീഷ്യന്‍ റിപ്പബ്ലിക്"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "തുര്‍ക്കി"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "തുര്‍ക്കി റിപ്പബ്ലിക്"
 
 #. Name for TUV
