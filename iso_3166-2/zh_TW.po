@@ -8,14 +8,15 @@
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2010.
 # Louies <louies0623@gmail.com>, 2019.
 # marklin0913da248e4cdada422a <marklin0913@protonmail.com>, 2020.
+# Jack Liu <ywp033319@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2020-10-12 15:26+0000\n"
-"Last-Translator: marklin0913da248e4cdada422a <marklin0913@protonmail.com>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-02-22 02:55+0000\n"
+"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-3166-2/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -23,35 +24,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 #. Name for AD-02
-#, fuzzy
 msgid "Canillo"
-msgstr "Canillo"
+msgstr "卡尼略"
 
 #. Name for AD-03
-#, fuzzy
 msgid "Encamp"
-msgstr "Encamp"
+msgstr "恩坎普"
 
 #. Name for AD-04
 msgid "La Massana"
 msgstr "馬薩納語"
 
 #. Name for AD-05
-#, fuzzy
 msgid "Ordino"
-msgstr "Ordino"
+msgstr "奧爾迪諾"
 
 #. Name for AD-06
 msgid "Sant Julià de Lòria"
-msgstr ""
+msgstr "聖胡利婭-德洛里亞"
 
 #. Name for AD-07
-#, fuzzy
 msgid "Andorra la Vella"
-msgstr "安道爾 la Vella"
+msgstr "安道爾城"
 
 #. Name for AD-08
 #, fuzzy
@@ -5920,7 +5917,7 @@ msgstr "Tigray"
 
 #. Name for FI-01
 #, fuzzy
-msgid "Ahvenanmaan maakunta"
+msgid "Åland"
 msgstr "Ahvenanmaan maakunta"
 
 #. Name for FI-02
@@ -5944,7 +5941,7 @@ msgid "Kainuu"
 msgstr "Kainuu"
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr ""
 
 #. Name for FI-07
@@ -5969,7 +5966,7 @@ msgstr "Lappi"
 
 #. Name for FI-11
 #, fuzzy
-msgid "Birkaland"
+msgid "Pirkanmaa"
 msgstr "Hordaland"
 
 #. Name for FI-12
@@ -5978,34 +5975,34 @@ msgid "Pohjanmaa"
 msgstr "Pohjanmaa"
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr ""
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr ""
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr ""
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr ""
 
 #. Name for FI-17
 #, fuzzy
-msgid "Satakunda"
+msgid "Satakunta"
 msgstr "Satakunta"
 
 #. Name for FI-18
 #, fuzzy
 #| msgid "Maryland"
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr "馬利蘭"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr ""
 
 #. Name for FJ-01
@@ -7077,6 +7074,11 @@ msgstr "Eilean Siar"
 msgid "Enfield"
 msgstr "Enfield"
 
+#. Name for GB-ENG
+#, fuzzy
+msgid "England"
+msgstr "長島"
+
 #. Name for GB-ERW
 #, fuzzy
 msgid "East Renfrewshire"
@@ -7393,6 +7395,11 @@ msgstr "諾福克"
 msgid "Nottingham"
 msgstr "Nottingham"
 
+#. Name for GB-NIR
+#, fuzzy
+msgid "Northern Ireland"
+msgstr "新愛爾蘭"
+
 #. Name for GB-NLK
 #, fuzzy
 msgid "North Lanarkshire"
@@ -7549,6 +7556,11 @@ msgstr "南 Ayrshire"
 #, fuzzy
 msgid "Scottish Borders"
 msgstr "蘇格蘭的邊框，"
+
+#. Name for GB-SCT
+#, fuzzy
+msgid "Scotland"
+msgstr "Southland"
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -7755,6 +7767,10 @@ msgstr "Walsall"
 #, fuzzy
 msgid "West Lothian"
 msgstr "West Lothian"
+
+#. Name for GB-WLS
+msgid "Wales [Cymru GB-CYM]"
+msgstr ""
 
 #. Name for GB-WLV
 #, fuzzy

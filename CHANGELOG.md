@@ -7,6 +7,139 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.15.0] – 2023-04-27
+
+### Changed
+
+- Translation updates for ISO 3166-1
+- Translation updates for ISO 3166-3
+- Translation updates for ISO 639-2
+
+
+## [4.14.0] – 2023-04-27
+
+### Changed
+
+- Translation updates for ISO 3166-1
+- Translation updates for ISO 3166-2
+- Translation updates for ISO 3166-3
+- Translation updates for ISO 639-2
+- Translation updates for ISO 639-3
+- Translation updates for ISO 639-5
+- Translation updates for ISO 4217
+- Translation updates for ISO 15924
+
+### Fixed
+
+* ISO 3166-2: Fix wrong Spanish translation
+
+
+## [4.13.0] – 2023-02-28
+
+### Added
+
+- ISO 3166-1: Add missing common names for Laos, Iran, and Syria.
+  Fixes #32
+
+### Changed
+
+- Translation updates for ISO 3166-1
+  - Kazakh from Debian BTS. Closes: #1025423
+  - Catalan from Debian BTS. Closes: #1026972
+- Translation updates for ISO 3166-2
+- Translation updates for ISO 3166-3
+- Translation updates for ISO 639-2
+- Translation updates for ISO 639-3
+- Translation updates for ISO 639-5
+- Translation updates for ISO 4217
+- Translation updates for ISO 15924
+
+### Fixed
+
+- ISO 3166-3: Fix withdrawal dates of AN, CS and YU. Fixes #28
+
+
+## [4.12.0] – 2022-11-06
+
+### Changed
+
+- ISO 3166-1: Update name for TR (Türkiye). Fixes #38
+- Translation updates for ISO 3166-1
+- Translation updates for ISO 3166-2. Closes: #1020633
+- Translation updates for ISO 3166-3
+- Translation updates for ISO 639-2
+- Translation updates for ISO 639-3
+- Translation updates for ISO 639-5
+- Translation updates for ISO 4217
+- Translation updates for ISO 15924
+
+### Fixed
+
+- ISO 3166-2: Remove comment from Dutch translation. Fixes #41
+
+
+## [4.11.0] – 2022-07-25
+
+### Added
+
+- Update ISO 639-3 codes from SIL website. Fixes #40
+
+### Changed
+
+- Translation updates for ISO 3166-1
+- Translation updates for ISO 3166-2
+- Translation updates for ISO 3166-3
+- Translation updates for ISO 639-2
+- Translation updates for ISO 639-3
+- Translation updates for ISO 639-5
+- Translation updates for ISO 4217
+- Translation updates for ISO 15924
+
+
+## [4.10.0] – 2022-06-01
+
+### Added
+
+- Update ISO 639-2 codes to include Montenegrin (cnr) added in 2017.
+- Update ISO 4217. Fixes #24
+- ISO 639-3: New translation for Friulian
+- ISO 639-5: New translations for Esperanto, Hindi, Russian
+- ISO 4217: New translation for Esperanto
+
+### Changed
+
+- Translation updates for ISO 3166-1
+- Translation updates for ISO 3166-2
+- Translation updates for ISO 3166-3
+- Translation updates for ISO 639-2
+- Translation updates for ISO 639-3
+- Translation updates for ISO 639-5
+- Translation updates for ISO 4217
+- Translation updates for ISO 15924
+
+### Fixed
+
+- ISO 3166-2: Add parent codes for GB. Fixes #36
+- ISO 3166-2: Fix subdivision names for Finland. Fixes #37
+
+
+## [4.9.0] – 2022-01-03
+
+### Added
+
+- ISO 639-3: New translation for Friulian
+- ISO 639-5: New translations for Esperanto, Hindi, Russian
+- ISO 4217: New translation for Esperanto
+
+### Changed
+
+- Translation updates for ISO 3166-1
+- Translation updates for ISO 3166-2
+- Translation updates for ISO 639-2
+- Translation updates for ISO 639-3
+- Translation updates for ISO 639-5
+
+
 ## [4.8.0] – 2021-11-03
 
 ### Added
@@ -37,7 +170,7 @@ and this project adheres to
 ## 4.7.0 – 2021-08-25
 
 ### Added
-- ISO 3166-1: Add common names for South and North Korea. Fixes #25
+- ISO 3166-1: Add common names for South and North Korea. Fixes #34
 
 ### Changed
 - Translation updates for ISO 3166-1
@@ -51,7 +184,7 @@ and this project adheres to
 
 ### Fixed
 - ISO 3166-1: Rename ku.po to kmr.po.
-- ISO 3166-2: Updates for Indonesia. Fixes #20
+- ISO 3166-2: Updates for Indonesia. Fixes #26
 - ISO 3166-3: Rename ku.po to kmr.po.
 - Fix weblate check: Remove double spaces
 
@@ -82,7 +215,7 @@ and this project adheres to
 - Translation updates for ISO 15924
 
 ### Fixed
-- ISO 3166-2: Update codes for Norway. Fixes #19
+- ISO 3166-2: Update codes for Norway. Fixes #25
 - ISO 3166-2: Update subdivision names for Belarus. Fixes #22
 
 
@@ -170,3 +303,14 @@ please switch to the JSON data files.**
 ### Removed
 - The XML files have been removed after having been deprecated for
   two and a half years. Please use the JSON data files instead.
+
+
+[UNRELEASED]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.15.0...main
+[4.15.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.14.0...v4.15.0
+[4.14.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.13.0...v4.14.0
+[4.13.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.12.0...v4.13.0
+[4.12.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.11.0...v4.12.0
+[4.11.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.10.0...v4.11.0
+[4.10.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.9.0...v4.10.0
+[4.9.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.8.0...v4.9.0
+[4.8.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.7.0...v4.8.0

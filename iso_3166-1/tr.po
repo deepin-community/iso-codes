@@ -15,14 +15,15 @@
 # Oguz Ersen <oguzersen@protonmail.com>, 2019.
 # Oğuz Ersen <oguzersen@protonmail.com>, 2020, 2021.
 # EminUZUN <eminuzunn@gmail.com>, 2020.
+# Oğuz Ersen <oguz@ersen.moe>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2021-08-25 10:47+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-02-26 15:37+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/tr/>\n"
 "Language: tr\n"
@@ -30,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -732,6 +733,10 @@ msgstr "İran İslâm Cumhuriyeti"
 msgid "Islamic Republic of Iran"
 msgstr "İran İslâm Cumhuriyeti"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "İran"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -847,6 +852,10 @@ msgstr "Kuveyt Devleti"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Lao Demokratik Halk Cumhuriyeti"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1472,6 +1481,10 @@ msgstr "Seyşeller Cumhuriyeti"
 msgid "Syrian Arab Republic"
 msgstr "Suriye Arap Cumhuriyeti"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr "Suriye"
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Turks ve Caicos Adaları"
@@ -1549,11 +1562,11 @@ msgid "Republic of Tunisia"
 msgstr "Tunus Cumhuriyeti"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "Türkiye"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Türkiye Cumhuriyeti"
 
 #. Name for TUV

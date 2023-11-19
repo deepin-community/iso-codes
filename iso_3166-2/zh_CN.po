@@ -9,15 +9,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Ji YongGang <jungle@soforge.com>, 2007.
 # LI Daobing <lidaobing@gmail.com>, 2007-2009, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021.
+# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2022.
 # tao wang <tonywang5@163.com>, 2020.
+# Dingzhong Chen <wsxy162@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2021-08-27 18:09+0000\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-06-02 18:17+0000\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-2/zh_Hans/>\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -57,14 +58,12 @@ msgid "Escaldes-Engordany"
 msgstr "莱塞斯卡尔德-恩戈尔达"
 
 #. Name for AE-AJ
-#, fuzzy
-#| msgid "'Ajmān"
 msgid "‘Ajmān"
 msgstr "阿吉曼"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
-msgstr ""
+msgstr "阿布扎比"
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -159,10 +158,8 @@ msgid "Khōst"
 msgstr "霍斯特省"
 
 #. Name for AF-KNR
-#, fuzzy
-#| msgid "Kunar"
 msgid "Kunaṟ"
-msgstr "库纳尔省"
+msgstr "库纳尔"
 
 #. Name for AF-LAG
 msgid "Laghmān"
@@ -335,7 +332,7 @@ msgstr "科泰克省"
 
 #. Name for AM-LO
 msgid "Loṙi"
-msgstr ""
+msgstr "洛里省"
 
 #. Name for AM-SH
 #, fuzzy
@@ -5363,7 +5360,7 @@ msgstr "提格雷"
 
 #. Name for FI-01
 #, fuzzy
-msgid "Ahvenanmaan maakunta"
+msgid "Åland"
 msgstr "奥兰府"
 
 #. Name for FI-02
@@ -5384,7 +5381,7 @@ msgid "Kainuu"
 msgstr ""
 
 #. Name for FI-06
-msgid "Egentliga Tavastland"
+msgid "Kanta-Häme"
 msgstr ""
 
 #. Name for FI-07
@@ -5406,7 +5403,7 @@ msgstr ""
 #. Name for FI-11
 #, fuzzy
 #| msgid "Hordaland"
-msgid "Birkaland"
+msgid "Pirkanmaa"
 msgstr "霍达兰"
 
 #. Name for FI-12
@@ -5414,34 +5411,34 @@ msgid "Pohjanmaa"
 msgstr ""
 
 #. Name for FI-13
-msgid "Norra Karelen"
+msgid "Pohjois-Karjala"
 msgstr ""
 
 #. Name for FI-14
-msgid "Norra Österbotten"
+msgid "Pohjois-Pohjanmaa"
 msgstr ""
 
 #. Name for FI-15
-msgid "Norra Savolax"
+msgid "Pohjois-Savo"
 msgstr ""
 
 #. Name for FI-16
-msgid "Päijänne-Tavastland"
+msgid "Päijät-Häme"
 msgstr ""
 
 #. Name for FI-17
 #, fuzzy
 #| msgid "Tambacounda"
-msgid "Satakunda"
+msgid "Satakunta"
 msgstr "坦巴昆达"
 
 #. Name for FI-18
 #, fuzzy
-msgid "Nyland"
+msgid "Uusimaa"
 msgstr "萨尔"
 
 #. Name for FI-19
-msgid "Egentliga Finland"
+msgid "Varsinais-Suomi"
 msgstr ""
 
 #. Name for FJ-01
@@ -6370,6 +6367,12 @@ msgstr "埃利安-锡尔"
 msgid "Enfield"
 msgstr "英菲尔德市"
 
+#. Name for GB-ENG
+#, fuzzy
+#| msgid "Long Island"
+msgid "England"
+msgstr "长屿"
+
 #. Name for GB-ERW
 msgid "East Renfrewshire"
 msgstr "东伦弗鲁郡"
@@ -6642,6 +6645,12 @@ msgstr "诺福克"
 msgid "Nottingham"
 msgstr "诺丁汉"
 
+#. Name for GB-NIR
+#, fuzzy
+#| msgid "New Ireland"
+msgid "Northern Ireland"
+msgstr "新爱尔兰省"
+
 #. Name for GB-NLK
 msgid "North Lanarkshire"
 msgstr "北拉纳克郡"
@@ -6776,6 +6785,12 @@ msgstr "南艾尔郡"
 #| msgid "Scottish Borders, The"
 msgid "Scottish Borders"
 msgstr "苏格兰边界"
+
+#. Name for GB-SCT
+#, fuzzy
+#| msgid "Southland"
+msgid "Scotland"
+msgstr "南部地区"
 
 #. Name for GB-SFK
 msgid "Suffolk"
@@ -6950,6 +6965,10 @@ msgstr "沃尔索尔郡"
 #. Name for GB-WLN
 msgid "West Lothian"
 msgstr "西洛锡安"
+
+#. Name for GB-WLS
+msgid "Wales [Cymru GB-CYM]"
+msgstr ""
 
 #. Name for GB-WLV
 msgid "Wolverhampton"
