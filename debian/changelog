@@ -1,3 +1,22 @@
+iso-codes (4.18.0-1) unstable; urgency=medium
+
+  * New upstream version 4.18.0
+    - Update ISO 3166-1 Italian translation. Closes: #1093956
+    - Fix names of ISO 639-5 Chinese translation. Closes: #1085988
+  * Update Standards-Version to 4.7.2, no changes needed
+  * Update d/copyright
+  * Update d/watch
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Fri, 11 Apr 2025 23:25:14 +0200
+
+iso-codes (4.17.0-1) unstable; urgency=medium
+
+  * New upstream version 4.17.0
+    - Fix pre- and suffixes in Romanian translation. Closes: #1072742
+  * Update Standards-Version to 4.7.0, no changes needed
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Fri, 13 Sep 2024 21:45:31 +0200
+
 iso-codes (4.16.0-1) unstable; urgency=medium
 
   * New upstream version 4.16.0

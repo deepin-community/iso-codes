@@ -1,3 +1,4 @@
 version=4
-opts=filenamemangle=s/.*?\/iso-codes-v?(\d\S+)\.tar\.gz/iso-codes-$1\.tar\.gz/ \
- https://salsa.debian.org/iso-codes-team/iso-codes/tags .*?v?\d\S+/iso-codes-v?(\d\S+)\.tar\.gz
+opts="searchmode=plain,\
+filenamemangle=s/.*?\/iso-codes-v?(\d\S+)/iso-codes-$1/" \
+https://salsa.debian.org/iso-codes-team/@PACKAGE@/tags?sort=updated_desc -/archive/v?\d[\d.]+/@PACKAGE@-@ANY_VERSION@@ARCHIVE_EXT@
