@@ -12,14 +12,15 @@
 # Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2022.
 # tao wang <tonywang5@163.com>, 2020.
 # Dingzhong Chen <wsxy162@gmail.com>, 2021.
+# Tyson Tan <tysontanx@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-12-18 14:43+0100\n"
-"PO-Revision-Date: 2022-06-02 18:17+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2024-01-15 15:46+0000\n"
+"Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -274,9 +275,8 @@ msgid "Gjirokastër"
 msgstr "吉罗卡斯特区"
 
 #. Name for AL-06
-#, fuzzy
 msgid "Korçë"
-msgstr "科赤区"
+msgstr "科尔察"
 
 #. Name for AL-07
 msgid "Kukës"
@@ -8384,9 +8384,8 @@ msgid "Andhra Pradesh"
 msgstr "安得拉邦"
 
 #. Name for IN-AR
-#, fuzzy
 msgid "Arunāchal Pradesh"
-msgstr "阿鲁纳恰尔邦"
+msgstr "伪阿鲁纳恰尔邦"
 
 #. Name for IN-AS
 msgid "Assam"
